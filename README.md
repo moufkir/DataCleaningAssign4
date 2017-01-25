@@ -1,18 +1,19 @@
 # DataCleaningAssign4
-The Assignement on Data Cleaning Course for week 4
+<br>The Assignement on Data Cleaning Course for week 4
 # The Script run_analysis.R
-The script is devided into the following parts
-1) reading the data
-2)preparing the data frames from several files 
-3) extracting the list of variables having names containing mean and standrad deviations
-4)merging the data all together for the variables names we kept the names from the features
-5) creating a table activities as the final table containg all the observations and variables (related to mean and Standrad deviataions)
-6) genration of the table of the means grouped by activity and subject
-7) genation of the 2 files activities.txt and averageActivities.txt
-
+<br>The script is devided into the following parts
+<ul>
+<li> 1) reading the data
+<li> 2)preparing the data frames from several files 
+<li> 3) extracting the list of variables having names containing mean and standrad deviations
+<li> 4)merging the data all together for the variables names we kept the names from the features
+<li> 5) creating a table activities as the final table containg all the observations and variables (related to mean and Standrad deviataions)
+<li> 6) genration of the table of the means grouped by activity and subject
+<li>7) genation of the 2 files activities.txt and averageActivities.txt
+</ul>
 # The Code Book
-Activity.name : the name of the activity
-Subject : the id of the subject who performs the experiment
+<br>Activity.name : the name of the activity
+<br>Subject : the id of the subject who performs the experiment
 <br>tBodyAcc.mean...X 
 <br>tBodyAcc.mean...Y 
 <br>tBodyAcc.mean...Z
