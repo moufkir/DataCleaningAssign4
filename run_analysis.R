@@ -151,7 +151,7 @@ activities <- rbind(testActivities, trainActivities)
 activities <- merge(activities, activity_labels, by = "activity.id", all = TRUE) %>%
     select(-(activity.id)) %>% arrange(subject, activity.name)
 
-## clean up unused variables
+## clean up unused variables 
 rm(list = c("testSetData", "trainSetData", "featuresData", "activity_labels", "testLblData",
     "testSubjectData", "trainLblData", "trainSubjectData", "trainActivities", "testActivities",
     "trainMeasures", "testMeasures"))
