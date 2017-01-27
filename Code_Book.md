@@ -11,7 +11,8 @@
 <br>6 LAYING
 
 <br>Subject : the id of the subject who performs the experiment
-subject	activity.name
+<br>subject	activity.name
+
 <b> All the rest of the features
 <br>tBodyAccmeanX
 <br>tBodyAccmeanY
