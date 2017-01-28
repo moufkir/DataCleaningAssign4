@@ -9,5 +9,5 @@
 <li> 4)merging the data all together for the variables names we kept the names from the features
 <li> 5) creating a table activities as the final table containg all the observations and variables (related to mean and Standrad deviataions)
 <li> 6) genration of the table of the means grouped by activity and subject
-<li>7) genation of the 2 files activities.txt and averageActivities.txt
+<li>7) genation of the file tidy.txt
 </ul>
